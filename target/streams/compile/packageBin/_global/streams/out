@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /root/data_engineer/boston-crimes-map/target/scala-2.11/boston-crimes-map_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/data_engineer/boston-crimes-map/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/data_engineer/boston-crimes-map/target/scala-2.11/classes/com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/BostonCrimesMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/data_engineer/boston-crimes-map/target/scala-2.11/classes/com/example/BostonCrimesMap.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/BostonCrimesMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /root/data_engineer/boston-crimes-map/target/scala-2.11/classes/com/example/BostonCrimesMap$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
