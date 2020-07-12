@@ -3,6 +3,7 @@
 ### Задание: Гид по безопасному Бостону
 В этом задании предлагается собрать статистику по криминогенной обстановке в разных районах Бостона. В качестве исходных данных используется датасет
 https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
+
 С помощью Spark соберите агрегат по районам (поле district) со следующими метриками:
   * crimes_total - общее количество преступлений в этом районе
   * crimes_monthly - медиана числа преступлений в месяц в этом районе
@@ -21,7 +22,9 @@ spark-submit --master local[*] --class com.example.BostonCrimesMap /path/to/jar 
 
 ### Решение
 Исходный код программы на scala расположен здесь: _src/main/scala/boston-crimes-map/boston-crimes-map.scala_
+
 Датасеты скопированы в папку _crimes-in-boston_
+
 Для сборки jar-файла выполнялась команда:
 ```
 sbt assembly
